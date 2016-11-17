@@ -42,6 +42,7 @@ body
   font-family: "Times New Roman", serif;
  }
 
-#right_side {
-  
-}
+ div img {
+   width: 85%;
+   margin: 25px
+ }
