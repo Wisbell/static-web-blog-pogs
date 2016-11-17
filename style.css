@@ -28,15 +28,25 @@ body
 
  }
 
+
+  .left {
+ 	width: 33%; 
+ }
+
  .right {
   font-family: Roboto, "Century Gothic", sans-serif;
+  width: 66%;
  }
 
- #left_side {
-  font-family: "Times New Roman", serif;
- }
 
+#moose {
+	width:100%;
+}
+
+/*
  div img {
    width: 85%;
    margin: 25px
  }
+ */
+ 
