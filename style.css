@@ -3,6 +3,7 @@ body
    background-color: aliceblue;
    padding: 5%;
    display: flex;
+   justify-content: space-around;
  }
  h1 {
    font-family: Roboto, "Century Gothic", sans-serif;
@@ -28,10 +29,19 @@ body
 
  }
 
+  .left {
+ 	width: 50%;
+ }
+
  .right {
   font-family: Roboto, "Century Gothic", sans-serif;
  }
 
+
  #left_side {
   font-family: "Times New Roman", serif;
  }
+
+#right_side {
+  
+}
