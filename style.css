@@ -25,7 +25,7 @@ body
    color: forestgreen;
  }
  li {
-
+ 	list-style-type: none;
  }
 
 
