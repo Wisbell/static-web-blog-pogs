@@ -1,0 +1,37 @@
+body
+ {
+   background-color: aliceblue;
+   padding: 5%;
+   display: flex;
+ }
+ h1 {
+   font-family: Roboto, "Century Gothic", sans-serif;
+   color: #111;
+ }
+ h2 {
+   font-family: Arial, Raleway, sans-serif;
+   color: #101010;
+ }
+ h3 {
+   font-family: "Times New Roman", serif;
+   color: #222;
+ }
+ h4 {
+   font-family: Roboto, "Century Gothic", sans-serif;
+   color: black;
+ }
+ h5 {
+   font-family: Roboto, "Century Gothic", sans-serif;
+   color: forestgreen;
+ }
+ li {
+
+ }
+
+ .right {
+  font-family: Roboto, "Century Gothic", sans-serif;
+ }
+
+ #left_side {
+  font-family: "Times New Roman", serif;
+ }
