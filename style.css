@@ -35,3 +35,8 @@ body
  #left_side {
   font-family: "Times New Roman", serif;
  }
+
+ div img {
+   width: 85%;
+   margin: 25px
+ }
