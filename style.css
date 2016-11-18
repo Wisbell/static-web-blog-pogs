@@ -1,6 +1,6 @@
 body
  {
-   background-color: aliceblue;
+   background-color: #80dfff;
    padding: 5%;
    display: flex;
  }
@@ -25,19 +25,32 @@ body
    color: forestgreen;
  }
  li {
+ 	list-style-type: none;
+ }
 
+
+  .left {
+    background-color: #ccffff;
+    margin: 2%;
+    padding: 2%;
+ 	  width: 33%;
  }
 
  .right {
+   background-color: #ccffff;
+   margin: 2%;
+   padding: 2%;
   font-family: Roboto, "Century Gothic", sans-serif;
- }
-
- #left_side {
-  font-family: "Times New Roman", serif;
   width: 66%;
  }
 
- div img {
+
+#moose {
+	width:100%;
+}
+
+
+ img {
    width: 85%;
-   margin: 25px
+   margin: 2% 0;
  }
