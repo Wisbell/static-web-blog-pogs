@@ -1,6 +1,6 @@
 body
  {
-   background-color: aliceblue;
+   background-color: #80dfff;
    padding: 5%;
    display: flex;
  }
@@ -30,10 +30,16 @@ body
 
 
   .left {
- 	width: 33%; 
+    background-color: #ccffff;
+    margin: 2%;
+    padding: 2%;
+ 	  width: 33%;
  }
 
  .right {
+   background-color: #ccffff;
+   margin: 2%;
+   padding: 2%;
   font-family: Roboto, "Century Gothic", sans-serif;
   width: 66%;
  }
@@ -43,10 +49,8 @@ body
 	width:100%;
 }
 
-/*
- div img {
+
+ img {
    width: 85%;
-   margin: 25px
+   margin: 2% 0;
  }
- */
- 
