@@ -30,12 +30,13 @@ body
 
 
   .left {
- 	width: 33%; 
+ 	width: 25%; 
+ 	background-color: white;
  }
 
  .right {
   font-family: Roboto, "Century Gothic", sans-serif;
-  width: 66%;
+  width: 75%;
  }
 
 
